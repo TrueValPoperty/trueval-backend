@@ -16,3 +16,12 @@ A clean Flask backend to support TrueVal's property valuation system with TrueVa
 ## Deployment
 
 This project includes a `render.yaml` for easy deployment on [Render](https://render.com).
+
+---
+
+## 💬 Questions or Contributions?
+
+Open an issue or reach out directly:
+
+- 📧 William Tyler-Street: williamtylerstreet@gmail.com  
+- 🏢 TrueVal Support: hello@trueval.co.uk
