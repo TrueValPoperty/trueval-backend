@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: trueval-backend
+    runtime: python
+    buildCommand: ""
+    startCommand: python app.py
+    envVars:
+      - key: AIRTABLE_API_KEY
+        sync: false
